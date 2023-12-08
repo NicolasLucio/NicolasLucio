@@ -25,3 +25,5 @@ Writer, programer and almost the Abismo's CEO. This is my study summary.
 #### Programming Language
 
  - C#
+ - Web Design (HTML - CSS - JS - Vue)
+ - PHP
